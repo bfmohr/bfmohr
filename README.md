@@ -2,7 +2,8 @@
 
 
 ###### Sobre o Bruno
-Formação em Análise e desenvolvimento de sistema pela Universidade de Caxias do sul - RS. Cursando EBAC - Analista Front-end.
+Formação em Análise e desenvolvimento de sistema pela Universidade de Caxias do sul - RS. 
+Cursando EBAC - Analista Front-end.
 
 ### DetalhesMore actions
 
